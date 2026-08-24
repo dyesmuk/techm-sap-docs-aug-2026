@@ -6,6 +6,32 @@
 
 ---
 
+## Trainee Prerequisites
+
+### Must-Have
+- Core Java & Object-Oriented Programming (classes, collections, exceptions)
+- Web/HTTP fundamentals (REST, JSON, HTTP methods, status codes)
+- Basic command-line comfort (used across Docker, Kubernetes, Maven, Git)
+- Basic SQL / relational database concepts
+
+### Good-to-Have
+- Prior exposure to Angular or another SPA framework (TypeScript, components, routing)
+- Basic understanding of authentication/authorization concepts (OAuth 2.0, tokens)
+- Some prior exposure to cloud/containerized environments (Docker, Kubernetes)
+- Familiarity with e-commerce/retail domain concepts (products, catalogs, orders, categories)
+
+---
+
+## Scoping and Duration
+
+Please note before we lock dates: within 48 hours, a few blocks (iFlow dev, REST integration, Angular/Spartacus storefront, custom extension dev) will land as guided walkthroughs of working examples rather than independent builds — those topics normally take longer elsewhere. We'll pre-template the labs to make the most of the time.
+
+If trainees need to be production-capable on these instead, we'd want closer to 60-65 hours. Let me know which direction you'd prefer.
+
+---
+
+## Day-Wise Delivery Schedule
+
 | Day | Duration | Topics | Lab / Hands-on |
 |---|---|---|---|
 | **Day 1** | 2.5 hrs | Infrastructure Overview (SAP Commerce Cloud Infra, Cloud Native Commerce) · Docker Fundamentals (Architecture, Images, Containers) · Docker Components (Volumes, Networking, Docker Compose) | Docker install/verify, basic container run |
