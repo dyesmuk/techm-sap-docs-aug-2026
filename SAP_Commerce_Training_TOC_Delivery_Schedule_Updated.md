@@ -42,7 +42,7 @@ Within 50 hours, iFlow development, REST integration, the Angular/Spartacus stor
 ## Day-Wise Delivery Schedule
 
 | Day | Topics | Lab / Hands-on |
-|---|---|---|---|
+|---|---|---|
 | **Day 1** | Infrastructure Overview (SAP Commerce Cloud Infra, Cloud Native Commerce) · Docker Fundamentals (Architecture, Images, Containers) · Docker Components (Volumes, Networking, Docker Compose) | Build a custom image, persist data with volumes, connect containers over a network, run a multi-service stack with Docker Compose |
 | **Day 2** | Kubernetes Introduction (Fundamentals, Architecture, Pods) · Kubernetes Workloads (ReplicaSets, Deployments, Services) · Cloud Deployment overview (AKS, Automation Engine, CI/CD) | Deploy to a local cluster, expose via a Service, observe self-healing, scale on demand, perform a rolling update and rollback |
 | **Day 3** | SAP Commerce Integration Basics (Integration Architecture, Integration Patterns, Web Services/OCC) | Tour Backoffice and HAC, call live OCC APIs against sample data, trace a real integration pattern in the sample environment |
